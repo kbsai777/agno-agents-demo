@@ -7,3 +7,10 @@ tantivy
 openai
 sqlalchemy
 pylance
+duckduckgo_search
+typing
+datetime
+pathlib
+exa_py
+pydantic
+rich

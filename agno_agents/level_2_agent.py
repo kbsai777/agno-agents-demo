@@ -41,4 +41,4 @@ if __name__ == "__main__":
     # Load the knowledge base, comment out after first run
     # Set recreate to True to recreate the knowledge base if needed
     agent.knowledge.load(recreate=False)
-    agent.print_response("What is Agnofrfrrr?", stream=True)
+    agent.print_response("What is Agno?", stream=True)
